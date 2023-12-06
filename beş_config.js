@@ -4,7 +4,7 @@ module.exports = {
     guildID: "", //Kullanıcağın Sunucunun ID'si
     voiceChannelID: "", // Ses Kanal ID'si
     presence: "Beş Was Here", //Botun Durumu
-    footer: "Beş & Luppux", //Embedların Footer Yazısı
+    footer: "Beş & Luppux", //Embedların Footer Yazısıss
     botOwners: ["928259219038302258"], //Bot Sahibinin ID'si
     prefix: ".", //Botun Prefix'i 
     manemoji: "♂️", //Erkek Emojisi
